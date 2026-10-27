@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-anagram"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Проверка, являются ли две строки анаграммами."
+    репозиторий = "github.com/skytech-alt/skyforge-anagram"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
